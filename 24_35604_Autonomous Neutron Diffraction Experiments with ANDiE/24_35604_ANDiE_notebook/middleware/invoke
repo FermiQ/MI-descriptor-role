@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#
+# jupyter tool
+#
+/usr/bin/invoke_app "$@" -t andie \
+                         -C "start_jupyter -t -T @tool ANDiE_Simulation_Run.ipynb" \
+                         -u anaconda-7 -r none
