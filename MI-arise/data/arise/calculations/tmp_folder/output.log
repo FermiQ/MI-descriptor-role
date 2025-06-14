@@ -1,0 +1,284 @@
+INFO: Scale factor: 2.737310148939904
+INFO: Metadata for descriptor quippy_SOAP_descriptor: ['quippy_SOAP', 'quippy_SOAP_image', 'quippy_SOAP_coordinates']
+INFO: Structure: Atoms(symbols='W', pbc=True, cell=[[-1.5775, 1.5775, 1.5775], [1.5775, -1.5775, 1.5775], [1.5775, 1.5775, -1.5775]])
+INFO: Scale factor: 2.737310148939904
+INFO: Calculating classification uncertainty.
+INFO: Performing forward pass: 1/1000
+INFO: Performing forward pass: 102/1000
+INFO: Performing forward pass: 203/1000
+INFO: Performing forward pass: 304/1000
+INFO: Performing forward pass: 405/1000
+INFO: Performing forward pass: 506/1000
+INFO: Performing forward pass: 607/1000
+INFO: Performing forward pass: 708/1000
+INFO: Performing forward pass: 809/1000
+INFO: Performing forward pass: 910/1000
+INFO: Metadata for descriptor quippy_SOAP_descriptor: ['quippy_SOAP', 'quippy_SOAP_image', 'quippy_SOAP_coordinates']
+INFO: Structure: Atoms(symbols='Cu', pbc=True, cell=[[0.0, 1.807455, 1.807455], [1.807455, 0.0, 1.807455], [1.807455, 1.807455, 0.0]])
+INFO: Scale factor: 2.561127374379063
+INFO: Structure: Atoms(symbols='W', pbc=True, cell=[[-1.5775, 1.5775, 1.5775], [1.5775, -1.5775, 1.5775], [1.5775, 1.5775, -1.5775]])
+INFO: Scale factor: 2.737310148939904
+INFO: Calculating classification uncertainty.
+INFO: Performing forward pass: 1/1000
+INFO: Performing forward pass: 102/1000
+INFO: Performing forward pass: 203/1000
+INFO: Performing forward pass: 304/1000
+INFO: Performing forward pass: 405/1000
+INFO: Performing forward pass: 506/1000
+INFO: Performing forward pass: 607/1000
+INFO: Performing forward pass: 708/1000
+INFO: Performing forward pass: 809/1000
+INFO: Performing forward pass: 910/1000
+INFO: Metadata for descriptor quippy_SOAP_descriptor: ['quippy_SOAP', 'quippy_SOAP_image', 'quippy_SOAP_coordinates']
+INFO: Structure: Atoms(symbols='ClNa', pbc=True, cell=[[0.0, 2.819655, 2.819655], [2.819655, 0.0, 2.819655], [2.819655, 2.819655, 0.0]])
+INFO: Scale factor: 3.992594342213109
+INFO: Scale factor: 2.824655
+INFO: Scale factor: 2.824655
+INFO: Scale factor: 3.992594342213109
+INFO: Calculating classification uncertainty.
+INFO: Performing forward pass: 1/1000
+INFO: Performing forward pass: 102/1000
+INFO: Performing forward pass: 203/1000
+INFO: Performing forward pass: 304/1000
+INFO: Performing forward pass: 405/1000
+INFO: Performing forward pass: 506/1000
+INFO: Performing forward pass: 607/1000
+INFO: Performing forward pass: 708/1000
+INFO: Performing forward pass: 809/1000
+INFO: Performing forward pass: 910/1000
+INFO: Metadata for descriptor quippy_SOAP_descriptor: ['quippy_SOAP', 'quippy_SOAP_image', 'quippy_SOAP_coordinates']
+INFO: Calculating system's representation.
+INFO: x range: 136.3368784
+INFO: y range: 134.5060616
+INFO: z range: 14.99846775
+INFO: Box size: 16.0
+INFO: Stride size: [15.0, 15.0, 20.0]
+INFO: Numbers of boxes in x, y, z: 10 9 1
+INFO: Total numbers of boxes: 90
+INFO: Calculating descriptor: quippy_SOAP_descriptor
+INFO: Calculating descriptor (process # 0):  1/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  11/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe117', pbc=False)
+INFO: Scale factor: 2.5012321073084722
+INFO: Structure: Atoms(symbols='Fe299', pbc=False)
+INFO: Scale factor: 2.4960244995667926
+INFO: Structure: Atoms(symbols='Fe186', pbc=False)
+INFO: Scale factor: 2.488742266819437
+INFO: Structure: Atoms(symbols='Fe28', pbc=False)
+INFO: Scale factor: 2.4733683857044078
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  21/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe102', pbc=False)
+INFO: Scale factor: 2.4960788144857746
+INFO: Structure: Atoms(symbols='Fe338', pbc=False)
+INFO: Scale factor: 2.49602424329055
+INFO: Structure: Atoms(symbols='Fe345', pbc=False)
+INFO: Scale factor: 2.4960242458844997
+INFO: Structure: Atoms(symbols='Fe334', pbc=False)
+INFO: Scale factor: 2.4751223270435094
+INFO: Structure: Atoms(symbols='Fe308', pbc=False)
+INFO: Scale factor: 2.4733683903118
+INFO: Structure: Atoms(symbols='Fe162', pbc=False)
+INFO: Scale factor: 2.473368390311799
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  31/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe151', pbc=False)
+INFO: Scale factor: 2.4960245045051765
+INFO: Structure: Atoms(symbols='Fe347', pbc=False)
+INFO: Scale factor: 2.4960242432453668
+INFO: Structure: Atoms(symbols='Fe359', pbc=False)
+INFO: Scale factor: 2.4856374702636
+INFO: Structure: Atoms(symbols='Fe379', pbc=False)
+INFO: Scale factor: 2.4700645019227094
+INFO: Structure: Atoms(symbols='Fe331', pbc=False)
+INFO: Scale factor: 2.4733683914278153
+INFO: Structure: Atoms(symbols='Fe285', pbc=False)
+INFO: Scale factor: 2.4753571923796374
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  41/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe15', pbc=False)
+INFO: Scale factor: 2.4960245476618175
+INFO: Structure: Atoms(symbols='Fe322', pbc=False)
+INFO: Scale factor: 1.551191165266778
+INFO: Structure: Atoms(symbols='Fe624', pbc=False)
+INFO: Scale factor: 1.535884578239242
+INFO: Structure: Atoms(symbols='Fe672', pbc=False)
+INFO: Scale factor: 1.5402346446416604
+INFO: Structure: Atoms(symbols='Fe423', pbc=False)
+INFO: Scale factor: 1.5472699073208043
+INFO: Structure: Atoms(symbols='Fe242', pbc=False)
+INFO: Scale factor: 2.853330459570228
+INFO: Structure: Atoms(symbols='Fe123', pbc=False)
+INFO: Scale factor: 2.8609538608231806
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  51/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe167', pbc=False)
+INFO: Scale factor: 1.551181760472637
+INFO: Structure: Atoms(symbols='Fe682', pbc=False)
+INFO: Scale factor: 1.5462881608112122
+INFO: Structure: Atoms(symbols='Fe618', pbc=False)
+INFO: Scale factor: 1.5497098454372034
+INFO: Structure: Atoms(symbols='Fe276', pbc=False)
+INFO: Scale factor: 2.851040904855986
+INFO: Structure: Atoms(symbols='Fe224', pbc=False)
+INFO: Scale factor: 2.8609538595269113
+INFO: Structure: Atoms(symbols='Fe231', pbc=False)
+INFO: Scale factor: 2.860953865314021
+INFO: Structure: Atoms(symbols='Fe30', pbc=False)
+INFO: Scale factor: 2.8609538678779995
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  61/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe2', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe261', pbc=False)
+INFO: Scale factor: 1.546288171064211
+INFO: Structure: Atoms(symbols='Fe268', pbc=False)
+INFO: Scale factor: 1.540005919547688
+INFO: Structure: Atoms(symbols='Fe236', pbc=False)
+INFO: Scale factor: 2.860953862909998
+INFO: Structure: Atoms(symbols='Fe225', pbc=False)
+INFO: Scale factor: 2.860953862909996
+INFO: Structure: Atoms(symbols='Fe228', pbc=False)
+INFO: Scale factor: 2.860953862909996
+INFO: Structure: Atoms(symbols='Fe64', pbc=False)
+INFO: Scale factor: 2.860953860002591
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  71/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe2', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='Fe74', pbc=False)
+INFO: Scale factor: 2.8609538601622138
+INFO: Structure: Atoms(symbols='Fe177', pbc=False)
+INFO: Scale factor: 2.8609538604324634
+INFO: Structure: Atoms(symbols='Fe86', pbc=False)
+INFO: Scale factor: 2.8609538620800987
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Calculating descriptor (process # 0):  81/90
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Structure: Atoms(symbols='', pbc=False)
+INFO: Structure empty after deleting all under-represented species
+INFO: Descriptor calculation (process #0): done.
+INFO: Extracting file 1/1: /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/desc_folder/descriptor.tar.gz
+INFO: Writing x to /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/datasets/four_grains_elemental_solid.xyz_stride_15.0_15.0_20.0_box_size_16.0_.tar.gz_x.pkl
+INFO: Writing y to /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/datasets/four_grains_elemental_solid.xyz_stride_15.0_15.0_20.0_box_size_16.0_.tar.gz_y.pkl
+INFO: Summary file written in /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/datasets/four_grains_elemental_solid.xyz_stride_15.0_15.0_20.0_box_size_16.0_.tar.gz_summary.json.
+INFO: Writing strided pattern positions to /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/datasets/four_grains_elemental_solid.xyz_stride_15.0_15.0_20.0_box_size_16.0_.tar.gz_strided_pattern_pos.pkl
+INFO: Dataset created at /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/datasets
+INFO: Strided pattern positions saved at /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/datasets
+INFO: Loading test dataset for prediction.
+INFO: Loading and formatting of data completed.
+INFO: Predicting...
+INFO: While considering memory limits: Using multiple passes to have principles probability and uncertainty estimates
+INFO: Using multiple passes to have principles probability and uncertainty estimates
+INFO: Calculating classification uncertainty.
+INFO: Performing forward pass: 1/1000
+INFO: Performing forward pass: 102/1000
+INFO: Performing forward pass: 203/1000
+INFO: Performing forward pass: 304/1000
+INFO: Performing forward pass: 405/1000
+INFO: Performing forward pass: 506/1000
+INFO: Performing forward pass: 607/1000
+INFO: Performing forward pass: 708/1000
+INFO: Performing forward pass: 809/1000
+INFO: Performing forward pass: 910/1000
+INFO: Accuracy: 60.0%
+INFO: Confusion matrix, without normalization: 
+INFO: [[54  2  5  1  1  7 11  7  1  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]]
+INFO: Predictions written to: /home/jovyan/test_tutorials/data/arise/calculations/four_grains_elemental_solid_box_16.0_stride_[15.0, 15.0, 20.0]/results_folder/results.csv

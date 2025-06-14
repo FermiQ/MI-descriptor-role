@@ -1,0 +1,2 @@
+Runtime crystal./data/arise/polycrystals/four_grains_elemental_solid.xyz 182.62679958343506Time for predicting 10.022620916366577 s 
+Box size 16.0, stride_size [15.0, 15.0, 20.0] padding_ratio [1.0, 1.0, 0.0] min_atoms for quippy: 3 minatoms SPM 50 cutoff_for_scaling [16.0, 32.0, 48.0]
